@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kafem", "Kafem\Kafem.csproj", "{E55B75D6-B3B4-42DF-B02D-668CE3F728D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E55B75D6-B3B4-42DF-B02D-668CE3F728D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E55B75D6-B3B4-42DF-B02D-668CE3F728D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E55B75D6-B3B4-42DF-B02D-668CE3F728D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E55B75D6-B3B4-42DF-B02D-668CE3F728D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {868B972A-A581-4BE2-8B50-0CB0F395B5CB}
+	EndGlobalSection
+EndGlobal

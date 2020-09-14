@@ -1,0 +1,17 @@
+C:\Users\Jiyan\source\repos\Kafem\Kafem\bin\Debug\Kafem.exe.config
+C:\Users\Jiyan\source\repos\Kafem\Kafem\bin\Debug\Kafem.exe
+C:\Users\Jiyan\source\repos\Kafem\Kafem\bin\Debug\Kafem.pdb
+C:\Users\Jiyan\source\repos\Kafem\Kafem\obj\Debug\Kafem.csprojAssemblyReference.cache
+C:\Users\Jiyan\source\repos\Kafem\Kafem\obj\Debug\Kafem.Login.resources
+C:\Users\Jiyan\source\repos\Kafem\Kafem\obj\Debug\Kafem.Properties.Resources.resources
+C:\Users\Jiyan\source\repos\Kafem\Kafem\obj\Debug\Kafem.csproj.GenerateResource.cache
+C:\Users\Jiyan\source\repos\Kafem\Kafem\obj\Debug\Kafem.csproj.CoreCompileInputs.cache
+C:\Users\Jiyan\source\repos\Kafem\Kafem\obj\Debug\Kafem.exe
+C:\Users\Jiyan\source\repos\Kafem\Kafem\obj\Debug\Kafem.pdb
+C:\Users\Jiyan\source\repos\Kafem\Kafem\obj\Debug\Kafem.AnaSayfa.resources
+C:\Users\Jiyan\source\repos\Kafem\Kafem\obj\Debug\Kafem.Menu.resources
+C:\Users\Jiyan\source\repos\Kafem\Kafem\obj\Debug\Kafem.Siparisler.resources
+C:\Users\Jiyan\source\repos\Kafem\Kafem\obj\Debug\Kafem.Personel.resources
+C:\Users\Jiyan\source\repos\Kafem\Kafem\obj\Debug\Kafem.Mutfak.resources
+C:\Users\Jiyan\source\repos\Kafem\Kafem\obj\Debug\Kafem.Siparis.resources
+C:\Users\Jiyan\source\repos\Kafem\Kafem\obj\Debug\Kafem.Satislar.resources
